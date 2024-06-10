@@ -28,7 +28,7 @@ python -m black --line-length 80 .
 ```
 
 ### Printing PDF
-
+![alt text](image.png)
 ```shell
 jupyter nbconvert notebooks/assignment.ipynb --execute --to webpdf --output-dir docs/ --output README
 ```
